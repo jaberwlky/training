@@ -1,3 +1,5 @@
+THIS WILL BE TOUGH, REQUIRE A LOT OF GOOGLING AND CONFIGURATION. 
+
 Configure your IntelliJ workspace:  https://www.jetbrains.com/idea/download/#section=windows download the community edition
 
 Download MySQL workbench: https://dev.mysql.com/downloads/workbench/
