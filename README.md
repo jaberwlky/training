@@ -10,7 +10,7 @@ Create a personal GitHub workspace for your code.
 
 Create your first application by following this readme. 
 
-clone this project, then do the work, then push up your pull request to the repo. i will look at it then
+clone this project, then do the work on your own branches so each person can do their own work. Then push up your pull request to the branch you created. i will look at it then
 
 DATABASE SETUP:
 Create a database instance, name it
