@@ -44,61 +44,42 @@ Final listing should send out an email
 Listing should show all customer data fields
 
 Sample Output:
+
 === Texas Customers ===
 
 
 Customer #2
-
 Lee Kathy
-
 kathy@null.com
-
 3208 Daniel Ave
-
 Dallas, TX 75205-4909
 
 
 Customer #3
-
 Montague Lucille
-
 lucille@null.com
-
 1609 Menteer Drive
-
 Cedar Park, TX 78613
 
 
 Customer #4
-
 Sherrie Arturo
-
 arturo@null.com
-
 2024 Lauren Lake Drive
-
 League City, TX 77573
 
 
 Customer #5
-
 Reed Deborah
-
 deborah@null.com
-
 8610 Southwestern Blvd
-
 Dallas, TX 75206
 
 
 Customer #6
-
 Logan Trent
-
 trent@null.com
-
 2408 Yorktown
-
 Houston, TX 7705
 
 
@@ -106,13 +87,9 @@ Houston, TX 7705
 
 
 Customer #1
-
 Kearney Katie
-
 katie@null.com
-
 5122 West 62nd Street
-
 Mission, KS 66205
 
 
