@@ -34,6 +34,19 @@ Pay attention to your package and class naming
 
 Comment your code at the right level, and add descriptive Git comments that explain what is included in each commit.
 
+File format:
+Last name
+First name
+Email address
+Home address
+City
+State
+Zip code
+Timestamp
+
+Write output to a log file using Log4J
+Write errors to an error log using Log4J
+
 Input:
 
 is in the customers.txt file
@@ -92,19 +105,5 @@ katie@null.com
 5122 West 62nd Street
 Mission, KS 66205
 
-
-
-File format:
-Last name
-First name
-Email address
-Home address
-City
-State
-Zip code
-Timestamp
-
-Write output to a log file using Log4J
-Write errors to an error log using Log4J
 
 
